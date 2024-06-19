@@ -7,7 +7,6 @@ public class Main {
 
     }
 
-
     public static void getArithmeticProgressionSum() {
 
         LongStream longStream = LongStream.range(10000000L, 1000000000L);
